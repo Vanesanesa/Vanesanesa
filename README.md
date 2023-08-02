@@ -1,4 +1,4 @@
-# Hey there, fabulous folks!👋🏻 Welcome to my GitHub playground!🚀 
+# Hey there, fabulous folks!👋Welcome to my GitHub playground!🚀 
 
 
 I am a data analyst, my main focus is on processing and analyzing data to uncover valuable insights and support decision-making processes. 
